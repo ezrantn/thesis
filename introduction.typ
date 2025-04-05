@@ -1,0 +1,22 @@
+Effectively managing student and graduate records is imperative for ensuring accuracy, accessibility, and security within the educational landscape. Traditional centralized systems often reveal significant limitations, including inefficiencies and vulnerabilities that can compromise data integrity. As such, there is an increasing necessity for innovative digital verification methods. These advancements enhance the reliability of record-keeping and facilitate easier access for stakeholders, thereby fostering a more streamlined and secure educational environment @VerificationofUniversityStudentandGraduateDatausingBlockchainTechnology.
+
+In recent years, the issue of counterfeit diplomas and transcripts has gained considerable attention. In 2019, Nuril Furkan underscored the growing threat of fraudulent academic credentials—especially during general elections—emphasizing the urgent need for stringent verification processes @ElectronicDocumentAuthenticityVerificationofDiplomaAndTranscriptUsingSmartContractonEthereumBlockchain. Proactively addressing this issue allows universities to safeguard their academic integrity, enhance student learning experiences, and foster a culture of trust.
+
+Blockchain technology establishes a decentralized framework that guarantees the integrity and immutability of data by employing robust cryptographic techniques. This ensures secure transactions and fosters trust among participants in various digital ecosystems @BlockchainInEducationASystematicReviewAndPracticalCaseStudies.
+
+Blockchain technology and IPFS provide a robust framework for decentralized and secure solutions, ensuring that certificate verification is robust and trustworthy, enhancing transparency and reliability for all users. IPFS provides a way to store data in a decentralized manner @9903549. It brings promise and difficulty for the systems that will come after it. This innovative approach ensures enhanced security and decentralization, empowering users with greater control over their credentials. By leveraging both technologies' strengths, the system aims to facilitate a seamless and user-friendly experience, thereby revolutionizing the landscape of credential verification processes.
+
+Blockchain has evolved beyond cryptocurrencies, enabling innovative solutions in various industries and enhancing transparency and trust. This technology is applicable across various sectors, including supply chain management and healthcare, due to its inherent capabilities in secure data storage and management @AnOverviewoftheEmergingTechnologyBlockchain. This versatility positions blockchain as an ideal solution for applications demanding high levels of trust and transparency.
+
+The InterPlanetary File System significantly boosts the safety and accessibility of digital credentials by utilizing decentralized storage, ensuring that sensitive information is protected while remaining easily accessible to authorized users, as shown in @ipfs. Improving data integrity involves reducing vulnerabilities within centralized systems and carefully controlling access, ensuring that sensitive information remains secure and trustworthy for all users @SecureFileSharingUsingBlockchainandIPFSwithSmartContract-BasedAccessControl.
+
+#figure(
+  image("img/ipfs.png", width: 80%),
+  caption: [IPFS Distributed Network]
+)<ipfs>
+
+This research comprehensively analyzes Blockchain and InterPlanetary File System (IPFS) architectures, aiming to propose a robust framework. This framework is designed to significantly enhance the security and reliability of academic data management and dissemination in the digital landscape.
+
+In Indonesia, the online diploma verification system SIVIL was introduced in 2017 to combat the persistent issue of counterfeit diplomas and transcripts @ElectronicDocumentAuthenticityVerificationofDiplomaAndTranscriptUsingSmartContractonEthereumBlockchain. Despite these efforts, challenges remain, underscoring the need for continuous improvements in verification processes and greater public awareness regarding the authenticity of academic records.
+
+Recent implementations of blockchain-based verification systems—such as those by Kanan et al. at Al-Zaytoonah University and by Cheng et al.—demonstrate the potential of this technology to streamline and secure academic credentialing. These innovative approaches reduce fraud risks and enhance trust in educational qualifications, offering a promising path forward for institutions globally @8717505 @8394455.
